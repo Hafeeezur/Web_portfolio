@@ -13,7 +13,8 @@ h1{
 h2 {
     font-size: 40px;
 }
-.Name-highlight {
+.orange-highlight {
+
     color:orange;
 }
 .half-width {
@@ -24,6 +25,7 @@ h2 {
 }
 .half-width IMG{
     width: 100%;
+ 
 }
 .top_banner{
     background-image: url(images/top-banner.png);
@@ -43,11 +45,13 @@ a.link-button {
     color:white ;
 
 }
-.Dream-section {
+.Dream-Area {
     background-image: url(images/dream-bg.png) ;
     background-repeat: No-repeat;
     background-position:right;
     height: 700px;
-    padding-bottom: 150pxz;
-
+    padding-bottom: 200px;
+}
+.single-Experience {
+    box-shadow: 10 px 10px gray;
 }
