@@ -58,3 +58,26 @@ a.link-button {
     height: 70%;
     border-radius: 5px;
 }
+.Experience-area{
+
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+background-color: aquamarine;
+
+}
+#full-stack{
+ border-left: 10px solid black;
+ border-image: linear-gradient( 180deg, lightsalmon, Tomato) ;
+ border-image-slice: 1;
+
+} 
+#baby-web {
+    border-left: 7px solid black;
+    border-image: linear-gradient( 180deg, blue, cyan) ;
+    border-image-slice: 1;
+   
+}
+footer {
+    text-align: center ;
+}
